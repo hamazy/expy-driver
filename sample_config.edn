@@ -1,0 +1,11 @@
+;; -*- mode: clojure; coding: utf-8 -*-
+;; rename this file as config.edn and fill your info below.
+{:username "your username"
+ :password "your password"
+ :wait 5000
+ :date "YYYYMMDD"
+ :from "新大阪"
+ :train-type "こだま"
+ :train-number "682"
+ :to "東京"
+}
